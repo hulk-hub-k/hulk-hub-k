@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hulk Hub King Legacy Mobile Script
 
-<!--
-**hulk-hub-k/hulk-hub-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elevate your gameplay experience with this powerful script, designed for King Legacy on Roblox. With features like Auto Farm, Auto Stats, WalkSpeed, JumpPower, Teleports, and more, you'll reach your desired level in no time.
 
-Here are some ideas to get you started:
+------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Download
+
+**Hulk Hub King Legacy Mobile Script - [Download](https://dlgram.com/ZYrzq)**
+
+------------------------------------------------------
+
+# Key Features 
+
+- Autofarm and teleport to maximize progress
+
+- Customize your character with ease
+
+- Complete tasks quickly and efficiently
+
+-----------------------------------------------------
+
+# How to Use 
+
+1. Open King Legacy on Roblox
+
+2. Paste the script into your Executor
+
+3. Enjoy the benefits and dominate the game!
+
+Get ready to take your gameplay to the next level with this simple yet powerful script. Thanks to cheatermad.com, you can customize your characters and become the best player in the game.
